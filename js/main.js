@@ -334,7 +334,7 @@ const setProjectImages = () => {
     // Sample image URLs - replace with your actual project images
     const imageUrls = [
         './images/image_1.png',
-        // './images/image_1.jpg',
+        './images/image_2.png',
         // './images/image_1.jpg',
     ];
 
